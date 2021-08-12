@@ -1,0 +1,26 @@
+
+https://github.com/mike-rankin/ESP32_CoinCell/blob/master/PCB/Schematic_Rev4.pdf
+
+https://dl.espressif.com/dl/schematics/esp32-pico-kit-v4_schematic.pdf
+
+
+http://www.ti.com/lit/an/swra351a/swra351a.pdf
+                                
+https://www.disk91.com/2015/technology/hardware/design-a-50ohm-impedance-net-for-rf-signals/
+
+
+
+
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+
+
+52 through-hole parts
+125 SMT parts
+
+FR-4 dielectric constant: 4.35 @ 500 MHz, 4.34 @ 1 GHz
+
+... so lets guess 4.30 at 2.4Ghz
+
+https://gist.github.com/jlainema/0054d4ed456393713c45c512954769a5
+
+https://easyeda.com
